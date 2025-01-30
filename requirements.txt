@@ -1,1 +1,9 @@
-streamlit
+streamlit==1.16.0
+pandas==2.2.3
+torch==2.1.0
+transformers==4.30.0
+scikit-learn==1.2.2
+beautifulsoup4==4.12.0
+altair==5.0.1
+sentencepiece
+accelerate>=0.26.0
